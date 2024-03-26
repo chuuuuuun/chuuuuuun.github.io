@@ -3,16 +3,26 @@
     line-height: 1.5em;
 }
 
+.bg-primary{
+    background-color:burlywood !important;
+    background-image: url(../assets/img/bg-lll.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 body{
     font-family: 'Noto Serif TC', sans-serif;
 }
 
 p.redred{
-    color:#4B3A51;
+    color:whitesmoke;
+    background-image: url(../assets/img/bg-angel.jpg);
+    background-color: #F6A7B8;
+    border: 5px dashed;
+    border-color: #4B3A51;
     font-size: 40px;
     text-align: center;
     text-indent: 2em;
-    background-color: #F6A7B8;
     font-family: 'Noto sans TC', sans-serif;
 }
 
