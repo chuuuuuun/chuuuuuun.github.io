@@ -38,3 +38,20 @@ p.redred{
     background-color:#D77186;
     color:whitesmoke;
 }
+
+table.andytable{
+    width: 80%;
+    background-color: bisque;
+}
+
+table.andytable th{
+    text-align: center;
+    background-color: brown;
+    color: beige;
+    border:10px solid palevioletred;
+}
+
+table.andytable td{
+    text-align: center;
+    border:10px solid palevioletred;
+}
