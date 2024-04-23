@@ -21,15 +21,15 @@ body{
 
 
 div#redred{
-    padding: 50px 150px;
+    padding: 5px;
     color:whitesmoke;
-    background-color: #F6A7B8;
+    background-color: #bf7070;
     border: 5px solid;
     margin: 0px 0px 50px 0px;
-    border-color: #AD5A5A;
+    border-color: #dc8d8d;
     border-radius: 5px;
-    font-size: 40px;
-    text-align: center;
+    font-size: 20px;
+    text-align: left;
     text-indent: 2em;
     font-family: 'Noto Serif TC', sans-serif;
 }
@@ -63,8 +63,4 @@ table.andytable th{
 table.andytable td{
     text-align: center;
     border:10px solid palevioletred;
-}
-
-.hahaha{
-    text-align: middle;
 }
