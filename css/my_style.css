@@ -23,20 +23,19 @@ body{
 div#redred{
     padding: 50px 150px;
     color:whitesmoke;
-    background-image: url(../assets/img/bg-angel.jpg);
     background-color: #F6A7B8;
     border: 5px solid;
     margin: 0px 0px 50px 0px;
-    border-color: #4B3A51;
+    border-color: #AD5A5A;
     border-radius: 5px;
     font-size: 40px;
     text-align: center;
     text-indent: 2em;
-    font-family: 'Noto sans TC', sans-serif;
+    font-family: 'Noto Serif TC', sans-serif;
 }
 
 .blueblue{
-    color:#D77186;
+    color:#AD5A5A;
 }
 
 .expedu_icon {
@@ -46,6 +45,7 @@ div#redred{
 .expedu_icon:hover{
     background-color:#D77186;
     color:whitesmoke;
+    border-radius: 20px;
 }
 
 table.andytable{
@@ -63,4 +63,8 @@ table.andytable th{
 table.andytable td{
     text-align: center;
     border:10px solid palevioletred;
+}
+
+.hahaha{
+    text-align: middle;
 }
